@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coopwebapi", "coopwebapi\coopwebapi.csproj", "{23C42B0F-2F41-43C8-B516-C78B09C8028D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C42B0F-2F41-43C8-B516-C78B09C8028D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C42B0F-2F41-43C8-B516-C78B09C8028D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C42B0F-2F41-43C8-B516-C78B09C8028D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C42B0F-2F41-43C8-B516-C78B09C8028D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39A82E32-57B5-44F5-AD9F-DB765D267BA7}
+	EndGlobalSection
+EndGlobal
